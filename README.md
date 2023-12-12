@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ehab Hamada</h1>
 
-[![Typing SVG align="center"](https://readme-typing-svg.demolab.com/?center=true&lines=Full+Stack+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Full+Stack+Developer;)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehabhamada&label=Profile%20views&color=0e75b6&style=flat" alt="ehabhamada" /> </p>
